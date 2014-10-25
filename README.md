@@ -12,4 +12,4 @@ Changes
 Just added the option of customize the FloatingActionMenu. 
 Now there are two extras attibute for styling the menu button: fab:fab_iconCollapsed and fab:fab_iconExpanded.
 
-For more information, take a look at the code or visit the README.md of the original source.
+For more information, take a look at the code or visit the README.md in the original repository.
