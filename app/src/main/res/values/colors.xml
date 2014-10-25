@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#a2a2a2</color>
+    <color name="greyGrey">#919190</color>
+    <color name="greyLight">#cdcccc</color>
+    <color name="greyLightLight">#d8d7d7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#79D43D</color>
+
+    <color name="fvDarkGrey">#ff4c4c4c</color>
+    <color name="fvGrey">#f0f0f0</color>
+    <color name="fvGreyLight">#ecf0f1</color>
+    <color name="fvBlue">#008BBF</color>
+    <color name="fvBlueLight">#ff00b8fc</color>
+    <color name="fvMagenta">#f10088</color>
+    <color name="fvMagenta2">#ad1457</color>
+    <color name="fvMagentaLight">#ffffa9ce</color>
+    <color name="fvYellow">#FFDC6B</color>
+    <color name="fvRed">#e84e40</color>
+    <color name="fvGreen">#259b24</color>
+</resources>
