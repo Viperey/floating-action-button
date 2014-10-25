@@ -106,10 +106,10 @@ public class FloatingActionsMenu extends ViewGroup {
         @Override
         public void draw(Canvas canvas) {
             canvas.save();
-            if( mRotation!=COLLAPSED_PLUS_ROTATION){
-                canvas.drawBitmap(bitmapCollapsed, bitmapCollapsed.getWidth()/2, bitmapCollapsed.getHeight()/2, null);
-            } else {
+            if( mRotation>=(EXPANDED_PLUS_ROTATION/2)){
                 canvas.drawBitmap(bitmapExpanded, bitmapExpanded.getWidth()/2, bitmapExpanded.getHeight()/2, null);
+            } else {
+                canvas.drawBitmap(bitmapCollapsed, bitmapCollapsed.getWidth()/2, bitmapCollapsed.getHeight()/2, null);
             }
             canvas.restore();
         }
